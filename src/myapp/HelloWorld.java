@@ -7,7 +7,7 @@ package myapp;
 
 class HelloWorld
 {
-  private finai String message;
+  private final String message;
   
   HelloWorld(String message) {
     this.message = message;

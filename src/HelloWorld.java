@@ -5,15 +5,17 @@
 
 class HelloWorld
 {
-  HelloWorld() {
+  private finai String message;
+  HelloWorld(String message) {
+    this.message = message;
   }
   
   void foo() {
-    System.out.println("Hello World!");
+    System.out.println(this.message);
   }
   
   public static void main(String[] args) {
-    HelloWorld hw = new HelloWorld();
+    HelloWorld hw = new HelloWorld("Hello World!");
     hw.foo();
   }
 }

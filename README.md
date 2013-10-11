@@ -24,3 +24,12 @@ if ($aiueo == 1234) {
     echo $aiueo, "\n";
 }
 ```
+
+
+Here's an example:
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```

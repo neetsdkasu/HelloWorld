@@ -8,6 +8,8 @@ class HelloWorld
  	public static void main(String[] args) {
       		HelloWorld hw = new HelloWorld("Hello World!");
           	hw.foo();
+          	hw.foo();
+          	hw.foo();
 	}
 	      
 	private final String message;

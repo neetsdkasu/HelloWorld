@@ -9,7 +9,6 @@ class HelloWorld
       		HelloWorld hw = new HelloWorld("Hello World!");
           	hw.foo();
           	
-          	
           	Unko unko = new Unko("Unko dayo", 100);
           	Unko kuso = new Unko("Unko dayo", 100);
           	System.out.println(unko);
@@ -17,6 +16,8 @@ class HelloWorld
           	System.out.println(unko.equals(kuso));
           	
           	
+          	hw.foo();
+          	hw.foo();
 	}
 	      
 	private final String message;

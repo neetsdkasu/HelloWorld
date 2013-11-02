@@ -1,5 +1,4 @@
 
-
 public class Unko
 {
   private final String name;
@@ -32,6 +31,11 @@ public class Unko
     } else if (!name.equals(other.name)) return false;
     if (value != other.value) return false;
     return true;
+  }
+  
+  @Override
+  public String toString() {
+    return name + " : " + value;
   }
 
 }

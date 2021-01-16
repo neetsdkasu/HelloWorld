@@ -21,17 +21,17 @@ fn main() {
     // SECOND
     // SECOND
     // SECOND
-    for x in 1..=15 {
-        if x % 15 == 0 {
-            println!("FIZZBUZZ");
-        } else if x % 5 == 0 {
-            println!("BUZZ");
-        } else if x % 3 == 0 {
-            println!("FIZZ");
-        } else {
-            println!("{}", x);
-        }
-    }
+    // for x in 1..=15 {
+        // if x % 15 == 0 {
+            // println!("FIZZBUZZ");
+        // } else if x % 5 == 0 {
+            // println!("BUZZ");
+        // } else if x % 3 == 0 {
+            // println!("FIZZ");
+        // } else {
+            // println!("{}", x);
+        // }
+    // }
     // THIRD
     // THIRD
     // THIRD
@@ -46,6 +46,22 @@ fn main() {
             println!("fizz");
         } else {
             println!("{}", p);
+        }
+    }
+    // 4th
+    // 4th
+    // 4th
+    // 4th
+    // 4th
+    for i in 1..=15 {
+        if i % 15 == 0 {
+            println!("FizzBuzz");
+        } else if i % 5 == 0 {
+            println!("Buzz");
+        } else if i % 3 == 0 {
+            println!("Fizz");
+        } else {
+            println!("{}", i);
         }
     }
 }

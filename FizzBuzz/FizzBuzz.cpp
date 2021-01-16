@@ -24,17 +24,17 @@ int main() {
     // SECOND
     // SECOND
     // SECOND
-	// for (int x = 1; x <= 15; x++) {
-		// if (x % 15 == 0) {
-			// cout << "FIZZBUZZ" << endl;
-		// } else if (x % 5 == 0) {
-			// cout << "BUZZ" << endl;
-		// } else if (x % 3 == 0) {
-			// cout << "FIZZ" << endl;
-		// } else {
-			// cout << x << endl;
-		// }
-	// }
+	for (int x = 1; x <= 15; x++) {
+		if (x % 15 == 0) {
+			cout << "FIZZBUZZ" << endl;
+		} else if (x % 5 == 0) {
+			cout << "BUZZ" << endl;
+		} else if (x % 3 == 0) {
+			cout << "FIZZ" << endl;
+		} else {
+			cout << x << endl;
+		}
+	}
     // THRID
     // THRID
     // THRID
@@ -49,22 +49,6 @@ int main() {
 			cout << "fizz" << endl;
 		} else {
 			cout << p << endl;
-		}
-	}
-    // 4th
-    // 4th
-    // 4th
-    // 4th
-    // 4th
-	for (int i = 1; i <= 15; i++) {
-		if (i % 15 == 0) {
-			cout << "FizzBuzz" << endl;
-		} else if (i % 5 == 0) {
-			cout << "Buzz" << endl;
-		} else if (i % 3 == 0) {
-			cout << "Fizz" << endl;
-		} else {
-			cout << i << endl;
 		}
 	}
 	return 0;

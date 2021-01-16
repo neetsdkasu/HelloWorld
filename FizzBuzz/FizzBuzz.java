@@ -21,17 +21,17 @@ class FizzBuzz {
         // SECOND
         // SECOND
         // SECOND
-		for (int x = 1; x <= 15; x++) {
-			if (x % 15 == 0) {
-				System.out.println("FIZZBUZZ");
-			} else if (x % 5 == 0) {
-				System.out.println("BUZZ");
-			} else if (x % 3 == 0) {
-				System.out.println("FIZZ");
-			} else {
-				System.out.println(x);
-			}
-		}
+		// for (int x = 1; x <= 15; x++) {
+			// if (x % 15 == 0) {
+				// System.out.println("FIZZBUZZ");
+			// } else if (x % 5 == 0) {
+				// System.out.println("BUZZ");
+			// } else if (x % 3 == 0) {
+				// System.out.println("FIZZ");
+			// } else {
+				// System.out.println(x);
+			// }
+		// }
         // THIRD
         // THIRD
         // THIRD
@@ -46,6 +46,22 @@ class FizzBuzz {
 				System.out.println("fizz");
 			} else {
 				System.out.println(p);
+			}
+		}
+        // 4th
+        // 4th
+        // 4th
+        // 4th
+        // 4th
+        for (int i = 1; i <= 15; i++) {
+			if (i % 15 == 0) {
+				System.out.println("FizzBuzz");
+			} else if (i % 5 == 0) {
+				System.out.println("Buzz");
+			} else if (i % 3 == 0) {
+				System.out.println("Fizz");
+			} else {
+				System.out.println(i);
 			}
 		}
 	}

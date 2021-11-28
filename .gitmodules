@@ -1,0 +1,672 @@
+[submodule "lang-Rust/b2c2"]
+	path = lang-Rust/b2c2
+	url = https://github.com/neetsdkasu/b2c2.git
+	branch = main
+[submodule "lang-Rust/b2c2-wasm-demo"]
+	path = lang-Rust/b2c2-wasm-demo
+	url = https://github.com/neetsdkasu/b2c2-wasm-demo.git
+	branch = main
+[submodule "lang-Go/fizzbuzz"]
+	path = lang-Go/fizzbuzz
+	url = https://github.com/neetsdkasu/fizzbuzz.git
+	branch = main
+[submodule "lang-Go/fizzbuzzrun"]
+	path = lang-Go/fizzbuzzrun
+	url = https://github.com/neetsdkasu/fizzbuzzrun.git
+	branch = main
+[submodule "lang-Java/unkocrypto"]
+	path = lang-Java/unkocrypto
+	url = https://github.com/neetsdkasu/unkocrypto.git
+	branch = master
+[submodule "lang-Java/MML-on-OAP"]
+	path = lang-Java/MML-on-OAP
+	url = https://github.com/neetsdkasu/MML-on-OAP.git
+	branch = main
+[submodule "lang-Java/shgbn-oap"]
+	path = lang-Java/shgbn-oap
+	url = https://github.com/neetsdkasu/shgbn-oap.git
+	branch = main
+[submodule "lang-Java/gurafu-oap"]
+	path = lang-Java/gurafu-oap
+	url = https://github.com/neetsdkasu/gurafu-oap.git
+	branch = main
+[submodule "lang-Java/casl2comet2-on-oap"]
+	path = lang-Java/casl2comet2-on-oap
+	url = https://github.com/neetsdkasu/casl2comet2-on-oap.git
+	branch = master
+[submodule "lang-Java/datetime_oap"]
+	path = lang-Java/datetime_oap
+	url = https://github.com/neetsdkasu/datetime_oap.git
+	branch = main
+[submodule "lang-Java/mt19937ar-MersenneTWister"]
+	path = lang-Java/mt19937ar-MersenneTWister
+	url = https://github.com/neetsdkasu/mt19937ar-MersenneTWister.git
+	branch = master
+[submodule "lang-Java/gzip-for-openappli"]
+	path = lang-Java/gzip-for-openappli
+	url = https://github.com/neetsdkasu/gzip-for-openappli.git
+	branch = master
+[submodule "challenges/codevsReborn"]
+	path = challenges/codevsReborn
+	url = https://github.com/neetsdkasu/codevsReborn.git
+	branch = master
+[submodule "challenges/CodeIQ-MySolutions"]
+	path = challenges/CodeIQ-MySolutions
+	url = https://github.com/neetsdkasu/CodeIQ-MySolutions.git
+	branch = master
+[submodule "challenges/Paiza-POH-MySolutions"]
+	path = challenges/Paiza-POH-MySolutions
+	url = https://github.com/neetsdkasu/Paiza-POH-MySolutions.git
+	branch = master
+[submodule "lang-Java/PacketPriceCalculator"]
+	path = lang-Java/PacketPriceCalculator
+	url = https://github.com/neetsdkasu/PacketPriceCalculator.git
+	branch = master
+[submodule "lang-Java/TokoPuyoModoki"]
+	path = lang-Java/TokoPuyoModoki
+	url = https://github.com/neetsdkasu/TokoPuyoModoki.git
+	branch = master
+[submodule "lang-JavaScript/LittleLisp"]
+	path = lang-JavaScript/LittleLisp
+	url = https://github.com/neetsdkasu/LittleLisp.git
+	branch = master
+[submodule "lang-JavaScript/mahjong-tools-tips-js"]
+	path = lang-JavaScript/mahjong-tools-tips-js
+	url = https://github.com/neetsdkasu/mahjong-tools-tips-js.git
+	branch = master
+[submodule "lang-JavaScript/sha512js"]
+	path = lang-JavaScript/sha512js
+	url = https://github.com/neetsdkasu/sha512js.git
+	branch = master
+[submodule "challenges/codevs5.0"]
+	path = challenges/codevs5.0
+	url = https://github.com/neetsdkasu/codevs5.0.git
+	branch = master
+[submodule "challenges/codevs4.0"]
+	path = challenges/codevs4.0
+	url = https://github.com/neetsdkasu/codevs4.0.git
+	branch = master
+[submodule "lang-JavaScript/mt19937ar-MersenneTwister-JS"]
+	path = lang-JavaScript/mt19937ar-MersenneTwister-JS
+	url = https://github.com/neetsdkasu/mt19937ar-MersenneTwister-JS.git
+	branch = master
+[submodule "challenges/paiza-steinsgate-rankingproblem"]
+	path = challenges/paiza-steinsgate-rankingproblem
+	url = https://gitlab.com/neetsdkasu/paiza-steinsgate-rankingproblem.git
+	branch = main
+[submodule "challenges/mysnippetsforcp"]
+	path = challenges/mysnippetsforcp
+	url = https://gitlab.com/neetsdkasu/mysnippetsforcp.git
+	branch = main
+[submodule "challenges/TCO2017-MarathonMatch-Round1-MySolution"]
+	path = challenges/TCO2017-MarathonMatch-Round1-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2017-MarathonMatch-Round1-MySolution.git
+	branch = master
+[submodule "challenges/Paiza-Moshijo-MySolutions"]
+	path = challenges/Paiza-Moshijo-MySolutions
+	url = https://gitlab.com/neetsdkasu/Paiza-Moshijo-MySolutions.git
+	branch = master
+[submodule "challenges/Paiza-LogicSummoner-MySolutions"]
+	path = challenges/Paiza-LogicSummoner-MySolutions
+	url = https://gitlab.com/neetsdkasu/Paiza-LogicSummoner-MySolutions.git
+	branch = master
+[submodule "challenges/TCO2017-MarathonMatch-PolandLightningRound-MySolution"]
+	path = challenges/TCO2017-MarathonMatch-PolandLightningRound-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2017-MarathonMatch-PolandLightningRound-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch94-MySolution"]
+	path = challenges/TopCoder-MarathonMatch94-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch94-MySolution.git
+	branch = master
+[submodule "challenges/TCO2017-MarathonMatch-Round3-MySolution"]
+	path = challenges/TCO2017-MarathonMatch-Round3-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2017-MarathonMatch-Round3-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch-TCOAnnouncementFunRound-MySolution"]
+	path = challenges/TopCoder-MarathonMatch-TCOAnnouncementFunRound-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch-TCOAnnouncementFunRound-MySolution.git
+	branch = master
+[submodule "challenges/TCO2017-MarathonMatch-Round2-MySolution"]
+	path = challenges/TCO2017-MarathonMatch-Round2-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2017-MarathonMatch-Round2-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch92-MySolution"]
+	path = challenges/TopCoder-MarathonMatch92-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch92-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch-EducationWeekMM-MySolution"]
+	path = challenges/TopCoder-MarathonMatch-EducationWeekMM-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch-EducationWeekMM-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch95-MySolution"]
+	path = challenges/TopCoder-MarathonMatch95-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch95-MySolution.git
+	branch = master
+[submodule "challenges/HokkaidoUniv-And-Hitachi-2nd-New-concept-Computing-Contest-2017-My-Solution"]
+	path = challenges/HokkaidoUniv-And-Hitachi-2nd-New-concept-Computing-Contest-2017-My-Solution
+	url = https://gitlab.com/neetsdkasu/HokkaidoUniv-And-Hitachi-2nd-New-concept-Computing-Contest-2017-My-Solution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch96-MySolution"]
+	path = challenges/TopCoder-MarathonMatch96-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch96-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch97-MySolution"]
+	path = challenges/TopCoder-MarathonMatch97-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch97-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch26-Practice-MySolution"]
+	path = challenges/TopCoder-MarathonMatch26-Practice-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch26-Practice-MySolution.git
+	branch = master
+[submodule "challenges/HACK-TO-THE-FUTURE-2018-qual-MySolution"]
+	path = challenges/HACK-TO-THE-FUTURE-2018-qual-MySolution
+	url = https://gitlab.com/neetsdkasu/HACK-TO-THE-FUTURE-2018-qual-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch98-MySolution"]
+	path = challenges/TopCoder-MarathonMatch98-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch98-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch99-MySolution"]
+	path = challenges/TopCoder-MarathonMatch99-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch99-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch100-MySolution"]
+	path = challenges/TopCoder-MarathonMatch100-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch100-MySolution.git
+	branch = master
+[submodule "challenges/TCO2018-MarathonMatch-PolandLightningRound-MySolution"]
+	path = challenges/TCO2018-MarathonMatch-PolandLightningRound-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2018-MarathonMatch-PolandLightningRound-MySolution.git
+	branch = master
+[submodule "challenges/TCO2018-MarathonMatch-Round1-MySolution"]
+	path = challenges/TCO2018-MarathonMatch-Round1-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2018-MarathonMatch-Round1-MySolution.git
+	branch = master
+[submodule "challenges/TCO2018-MarathonMatch-Round2-MySolution"]
+	path = challenges/TCO2018-MarathonMatch-Round2-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2018-MarathonMatch-Round2-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch101-MySolution"]
+	path = challenges/TopCoder-MarathonMatch101-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch101-MySolution.git
+	branch = master
+[submodule "challenges/TCO2018-MarathonMatch-Round3-MySolution"]
+	path = challenges/TCO2018-MarathonMatch-Round3-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2018-MarathonMatch-Round3-MySolution.git
+	branch = master
+[submodule "challenges/TCO2018-MarathonMatch-ArgentinaLightningRound-MySolution"]
+	path = challenges/TCO2018-MarathonMatch-ArgentinaLightningRound-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2018-MarathonMatch-ArgentinaLightningRound-MySolution.git
+	branch = master
+[submodule "challenges/TCO2018-MarathonMatch-Round4-MySolution"]
+	path = challenges/TCO2018-MarathonMatch-Round4-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2018-MarathonMatch-Round4-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch102-MySolution"]
+	path = challenges/TopCoder-MarathonMatch102-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch102-MySolution.git
+	branch = master
+[submodule "lang-Java/tcmmanimetool"]
+	path = lang-Java/tcmmanimetool
+	url = https://gitlab.com/neetsdkasu/tcmmanimetool.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch103-MySolution"]
+	path = challenges/TopCoder-MarathonMatch103-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch103-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch104-MySolution"]
+	path = challenges/TopCoder-MarathonMatch104-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch104-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch105-MySolution"]
+	path = challenges/TopCoder-MarathonMatch105-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch105-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch106-MySolution"]
+	path = challenges/TopCoder-MarathonMatch106-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch106-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch107-MySolution"]
+	path = challenges/TopCoder-MarathonMatch107-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch107-MySolution.git
+	branch = master
+[submodule "challenges/Paiza-Botchi-MySolution"]
+	path = challenges/Paiza-Botchi-MySolution
+	url = https://gitlab.com/neetsdkasu/Paiza-Botchi-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch108-MySolution"]
+	path = challenges/TopCoder-MarathonMatch108-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch108-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch109-MySolution"]
+	path = challenges/TopCoder-MarathonMatch109-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch109-MySolution.git
+	branch = master
+[submodule "challenges/Paiza-PhantomThief-MySolution"]
+	path = challenges/Paiza-PhantomThief-MySolution
+	url = https://gitlab.com/neetsdkasu/Paiza-PhantomThief-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch110-MySolution"]
+	path = challenges/TopCoder-MarathonMatch110-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch110-MySolution.git
+	branch = master
+[submodule "lang-Go/tcutils"]
+	path = lang-Go/tcutils
+	url = https://gitlab.com/neetsdkasu/tcutils.git
+	branch = master
+[submodule "challenges/VRt-Contest-2019-MySolution"]
+	path = challenges/VRt-Contest-2019-MySolution
+	url = https://gitlab.com/neetsdkasu/VRt-Contest-2019-MySolution.git
+	branch = master
+[submodule "challenges/TCO2019-MarathonMatch-Round1-MySolution"]
+	path = challenges/TCO2019-MarathonMatch-Round1-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2019-MarathonMatch-Round1-MySolution.git
+	branch = master
+[submodule "challenges/mmmytoolsandtemplates"]
+	path = challenges/mmmytoolsandtemplates
+	url = https://gitlab.com/neetsdkasu/mmmytoolsandtemplates.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch-PracticeMatchVanishingMaze-MySolution"]
+	path = challenges/TopCoder-MarathonMatch-PracticeMatchVanishingMaze-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch-PracticeMatchVanishingMaze-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch111-MySolution"]
+	path = challenges/TopCoder-MarathonMatch111-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch111-MySolution.git
+	branch = master
+[submodule "challenges/TCO2019-MarathonMatch-Round2-MySolution"]
+	path = challenges/TCO2019-MarathonMatch-Round2-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2019-MarathonMatch-Round2-MySolution.git
+	branch = master
+[submodule "challenges/TCO2019-MarathonMatch-Round3-MySolution"]
+	path = challenges/TCO2019-MarathonMatch-Round3-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2019-MarathonMatch-Round3-MySolution.git
+	branch = master
+[submodule "challenges/TCO2015-MarathonMatch-Round3-Practice-MySolution"]
+	path = challenges/TCO2015-MarathonMatch-Round3-Practice-MySolution
+	url = https://gitlab.com/neetsdkasu/TCO2015-MarathonMatch-Round3-Practice-MySolution.git
+	branch = master
+[submodule "challenges/HACK-TO-THE-FUTURE-2020-qual-MySolution"]
+	path = challenges/HACK-TO-THE-FUTURE-2020-qual-MySolution
+	url = https://gitlab.com/neetsdkasu/HACK-TO-THE-FUTURE-2020-qual-MySolution.git
+	branch = master
+[submodule "challenges/HitachiHokudaiLaboAndHokkaidoUniversityContest2019-1-MySolution"]
+	path = challenges/HitachiHokudaiLaboAndHokkaidoUniversityContest2019-1-MySolution
+	url = https://gitlab.com/neetsdkasu/HitachiHokudaiLaboAndHokkaidoUniversityContest2019-1-MySolution.git
+	branch = master
+[submodule "challenges/genmmstub"]
+	path = challenges/genmmstub
+	url = https://gitlab.com/neetsdkasu/genmmstub.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch112-MySolution"]
+	path = challenges/TopCoder-MarathonMatch112-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch112-MySolution.git
+	branch = master
+[submodule "challenges/HitachiHokudaiLaboAndHokkaidoUniversityContest2019-2-MySolution"]
+	path = challenges/HitachiHokudaiLaboAndHokkaidoUniversityContest2019-2-MySolution
+	url = https://gitlab.com/neetsdkasu/HitachiHokudaiLaboAndHokkaidoUniversityContest2019-2-MySolution.git
+	branch = master
+[submodule "challenges/TopCoder-MarathonMatch113-MySolution"]
+	path = challenges/TopCoder-MarathonMatch113-MySolution
+	url = https://gitlab.com/neetsdkasu/TopCoder-MarathonMatch113-MySolution.git
+	branch = master
+[submodule "challenges/HokkaidoUniv-And-Hitachi-1st-New-concept-Computing-Contest-2017-My-Solution"]
+	path = challenges/HokkaidoUniv-And-Hitachi-1st-New-concept-Computing-Contest-2017-My-Solution
+	url = https://gitlab.com/neetsdkasu/HokkaidoUniv-And-Hitachi-1st-New-concept-Computing-Contest-2017-My-Solution.git
+	branch = master
+[submodule "lang-Rust/mylisp-wasm-demo"]
+	path = lang-Rust/mylisp-wasm-demo
+	url = https://bitbucket.org/neetsdkasu/mylisp-wasm-demo.git
+	branch = main
+[submodule "lang-Rust/idpwmemo-wasm"]
+	path = lang-Rust/idpwmemo-wasm
+	url = https://bitbucket.org/neetsdkasu/idpwmemo-wasm.git
+	branch = main
+[submodule "lang-CSharp/idpwmemo_cli_cs"]
+	path = lang-CSharp/idpwmemo_cli_cs
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_cli_cs.git
+	branch = main
+[submodule "lang-Rust/mylisp"]
+	path = lang-Rust/mylisp
+	url = https://bitbucket.org/neetsdkasu/mylisp.git
+	branch = master
+[submodule "lang-Rust/idpwmemo_view_cli_rs"]
+	path = lang-Rust/idpwmemo_view_cli_rs
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_view_cli_rs.git
+	branch = main
+[submodule "lang-Rust/idpwmemo_rs"]
+	path = lang-Rust/idpwmemo_rs
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_rs.git
+	branch = main
+[submodule "lang-Rust/java_data_io_rs"]
+	path = lang-Rust/java_data_io_rs
+	url = https://bitbucket.org/neetsdkasu/java_data_io_rs.git
+	branch = main
+[submodule "lang-Rust/unkocrypto_rs"]
+	path = lang-Rust/unkocrypto_rs
+	url = https://bitbucket.org/neetsdkasu/unkocrypto_rs.git
+	branch = main
+[submodule "lang-Go/inwardly"]
+	path = lang-Go/inwardly
+	url = https://bitbucket.org/neetsdkasu/inwardly.git
+	branch = main
+[submodule "lang-CSharp/idpwmemo_win_cs"]
+	path = lang-CSharp/idpwmemo_win_cs
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_win_cs.git
+	branch = main
+[submodule "lang-CSharp/idpwmemo_cs"]
+	path = lang-CSharp/idpwmemo_cs
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_cs.git
+	branch = main
+[submodule "lang-CSharp/mersenne_twister_cs"]
+	path = lang-CSharp/mersenne_twister_cs
+	url = https://bitbucket.org/neetsdkasu/mersenne_twister_cs.git
+	branch = main
+[submodule "lang-CSharp/java_data_io_cs"]
+	path = lang-CSharp/java_data_io_cs
+	url = https://bitbucket.org/neetsdkasu/java_data_io_cs.git
+	branch = main
+[submodule "lang-CSharp/unkocrypto_cs"]
+	path = lang-CSharp/unkocrypto_cs
+	url = https://bitbucket.org/neetsdkasu/unkocrypto_cs.git
+	branch = main
+[submodule "lang-Go/java_data_io_go"]
+	path = lang-Go/java_data_io_go
+	url = https://bitbucket.org/neetsdkasu/java_data_io_go.git
+	branch = main
+[submodule "lang-FSharp/mersenne_twister_fs"]
+	path = lang-FSharp/mersenne_twister_fs
+	url = https://bitbucket.org/neetsdkasu/mersenne_twister_fs.git
+	branch = main
+[submodule "lang-VisualBasicNET/mersenne_twister_vb"]
+	path = lang-VisualBasicNET/mersenne_twister_vb
+	url = https://bitbucket.org/neetsdkasu/mersenne_twister_vb.git
+	branch = main
+[submodule "lang-Go/idpwmemo_view_cli_go"]
+	path = lang-Go/idpwmemo_view_cli_go
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_view_cli_go.git
+	branch = main
+[submodule "lang-Go/idpwmemo_go"]
+	path = lang-Go/idpwmemo_go
+	url = https://bitbucket.org/neetsdkasu/idpwmemo_go.git
+	branch = main
+[submodule "lang-Go/unkocrypto_go"]
+	path = lang-Go/unkocrypto_go
+	url = https://bitbucket.org/neetsdkasu/unkocrypto_go.git
+	branch = main
+[submodule "lang-CSharp/listhtml"]
+	path = lang-CSharp/listhtml
+	url = https://bitbucket.org/neetsdkasu/listhtml.git
+	branch = main
+[submodule "lang-Java/casl2-comet2"]
+	path = lang-Java/casl2-comet2
+	url = https://bitbucket.org/neetsdkasu/casl2-comet2.git
+	branch = main
+[submodule "lang-TypeScript/idpwmemo-ts"]
+	path = lang-TypeScript/idpwmemo-ts
+	url = https://bitbucket.org/neetsdkasu/idpwmemo-ts.git
+	branch = main
+[submodule "lang-TypeScript/unkocrypto_ts"]
+	path = lang-TypeScript/unkocrypto_ts
+	url = https://bitbucket.org/neetsdkasu/unkocrypto_ts.git
+	branch = main
+[submodule "lang-TypeScript/java_data_io_ts"]
+	path = lang-TypeScript/java_data_io_ts
+	url = https://bitbucket.org/neetsdkasu/java_data_io_ts.git
+	branch = main
+[submodule "lang-Go/mersenne_twister_go"]
+	path = lang-Go/mersenne_twister_go
+	url = https://bitbucket.org/neetsdkasu/mersenne_twister_go.git
+	branch = main
+[submodule "lang-Rust/mersenne_twister_rs"]
+	path = lang-Rust/mersenne_twister_rs
+	url = https://bitbucket.org/neetsdkasu/mersenne_twister_rs.git
+	branch = main
+[submodule "lang-TypeScript/mersenne_twister_ts"]
+	path = lang-TypeScript/mersenne_twister_ts
+	url = https://bitbucket.org/neetsdkasu/mersenne_twister_ts.git
+	branch = main
+[submodule "lang-CSharp/transuclc"]
+	path = lang-CSharp/transuclc
+	url = https://bitbucket.org/neetsdkasu/transuclc.git
+	branch = master
+[submodule "lang-Rust/concatsrc"]
+	path = lang-Rust/concatsrc
+	url = https://bitbucket.org/neetsdkasu/concatsrc.git
+	branch = master
+[submodule "lang-FSharp/byehosts"]
+	path = lang-FSharp/byehosts
+	url = https://bitbucket.org/neetsdkasu/byehosts.git
+	branch = master
+[submodule "lang-FSharp/my-template-fsharp-gui"]
+	path = lang-FSharp/my-template-fsharp-gui
+	url = https://bitbucket.org/neetsdkasu/my-template-fsharp-gui.git
+	branch = master
+[submodule "lang-VisualBasic6/wordcounter"]
+	path = lang-VisualBasic6/wordcounter
+	url = https://bitbucket.org/neetsdkasu/wordcounter.git
+	branch = master
+[submodule "lang-VisualBasic6/startupmemo"]
+	path = lang-VisualBasic6/startupmemo
+	url = https://bitbucket.org/neetsdkasu/startupmemo.git
+	branch = master
+[submodule "lang-VisualBasic6/shootinggame"]
+	path = lang-VisualBasic6/shootinggame
+	url = https://bitbucket.org/neetsdkasu/shootinggame.git
+	branch = master
+[submodule "lang-VisualBasic6/shootataball"]
+	path = lang-VisualBasic6/shootataball
+	url = https://bitbucket.org/neetsdkasu/shootataball.git
+	branch = master
+[submodule "lang-VisualBasic6/robot-for-my-desktop"]
+	path = lang-VisualBasic6/robot-for-my-desktop
+	url = https://bitbucket.org/neetsdkasu/robot-for-my-desktop.git
+	branch = master
+[submodule "lang-VisualBasic6/rakugaki"]
+	path = lang-VisualBasic6/rakugaki
+	url = https://bitbucket.org/neetsdkasu/rakugaki.git
+	branch = master
+[submodule "lang-VisualBasic6/process-checker"]
+	path = lang-VisualBasic6/process-checker
+	url = https://bitbucket.org/neetsdkasu/process-checker.git
+	branch = master
+[submodule "lang-VisualBasic6/picktextlineex"]
+	path = lang-VisualBasic6/picktextlineex
+	url = https://bitbucket.org/neetsdkasu/picktextlineex.git
+	branch = master
+[submodule "lang-VisualBasic6/picktextline"]
+	path = lang-VisualBasic6/picktextline
+	url = https://bitbucket.org/neetsdkasu/picktextline.git
+	branch = master
+[submodule "lang-VisualBasic6/numberingrenamer"]
+	path = lang-VisualBasic6/numberingrenamer
+	url = https://bitbucket.org/neetsdkasu/numberingrenamer.git
+	branch = master
+[submodule "lang-VisualBasic6/mozaiku"]
+	path = lang-VisualBasic6/mozaiku
+	url = https://bitbucket.org/neetsdkasu/mozaiku.git
+	branch = master
+[submodule "lang-VisualBasic6/minesweeper"]
+	path = lang-VisualBasic6/minesweeper
+	url = https://bitbucket.org/neetsdkasu/minesweeper.git
+	branch = master
+[submodule "lang-VisualBasic6/lightsoff"]
+	path = lang-VisualBasic6/lightsoff
+	url = https://bitbucket.org/neetsdkasu/lightsoff.git
+	branch = master
+[submodule "lang-VisualBasic6/jointtext"]
+	path = lang-VisualBasic6/jointtext
+	url = https://bitbucket.org/neetsdkasu/jointtext.git
+	branch = master
+[submodule "lang-VisualBasic6/imageprocessor"]
+	path = lang-VisualBasic6/imageprocessor
+	url = https://bitbucket.org/neetsdkasu/imageprocessor.git
+	branch = master
+[submodule "lang-VisualBasic6/imagefilter"]
+	path = lang-VisualBasic6/imagefilter
+	url = https://bitbucket.org/neetsdkasu/imagefilter.git
+	branch = master
+[submodule "lang-VisualBasic6/hitandblow"]
+	path = lang-VisualBasic6/hitandblow
+	url = https://bitbucket.org/neetsdkasu/hitandblow.git
+	branch = master
+[submodule "lang-VisualBasic6/filerenametool"]
+	path = lang-VisualBasic6/filerenametool
+	url = https://bitbucket.org/neetsdkasu/filerenametool.git
+	branch = master
+[submodule "lang-VisualBasic6/diveide-image"]
+	path = lang-VisualBasic6/diveide-image
+	url = https://bitbucket.org/neetsdkasu/diveide-image.git
+	branch = master
+[submodule "lang-VisualBasic6/copylog"]
+	path = lang-VisualBasic6/copylog
+	url = https://bitbucket.org/neetsdkasu/copylog.git
+	branch = master
+[submodule "lang-VisualBasic6/colorpicker"]
+	path = lang-VisualBasic6/colorpicker
+	url = https://bitbucket.org/neetsdkasu/colorpicker.git
+	branch = master
+[submodule "lang-VisualBasic6/clock"]
+	path = lang-VisualBasic6/clock
+	url = https://bitbucket.org/neetsdkasu/clock.git
+	branch = master
+[submodule "lang-VisualBasic6/clicktheleft"]
+	path = lang-VisualBasic6/clicktheleft
+	url = https://bitbucket.org/neetsdkasu/clicktheleft.git
+	branch = master
+[submodule "lang-VisualBasic6/charactercounter"]
+	path = lang-VisualBasic6/charactercounter
+	url = https://bitbucket.org/neetsdkasu/charactercounter.git
+	branch = master
+[submodule "lang-VisualBasic6/calc"]
+	path = lang-VisualBasic6/calc
+	url = https://bitbucket.org/neetsdkasu/calc.git
+	branch = master
+[submodule "lang-VisualBasic6/100masscalcgame"]
+	path = lang-VisualBasic6/100masscalcgame
+	url = https://bitbucket.org/neetsdkasu/100masscalcgame.git
+	branch = master
+[submodule "lang-FSharp/my-utilities-for-fsharp"]
+	path = lang-FSharp/my-utilities-for-fsharp
+	url = https://bitbucket.org/neetsdkasu/my-utilities-for-fsharp.git
+	branch = master
+[submodule "lang-JavaScript/samegame"]
+	path = lang-JavaScript/samegame
+	url = https://bitbucket.org/neetsdkasu/samegame.git
+	branch = master
+[submodule "lang-Java/lisp-like-interpreter"]
+	path = lang-Java/lisp-like-interpreter
+	url = https://bitbucket.org/neetsdkasu/lisp-like-interpreter.git
+	branch = master
+[submodule "lang-Java/classbuilder"]
+	path = lang-Java/classbuilder
+	url = https://bitbucket.org/neetsdkasu/classbuilder.git
+	branch = master
+[submodule "lang-Haskell/brainf__k-hs"]
+	path = lang-Haskell/brainf__k-hs
+	url = https://bitbucket.org/neetsdkasu/brainf__k-hs.git
+	branch = master
+[submodule "lang-FSharp/brainf__k-fs"]
+	path = lang-FSharp/brainf__k-fs
+	url = https://bitbucket.org/neetsdkasu/brainf__k-fs.git
+	branch = master
+[submodule "lang-Ruby/brainf_ck"]
+	path = lang-Ruby/brainf_ck
+	url = https://bitbucket.org/neetsdkasu/brainf_ck.git
+	branch = master
+[submodule "challenges/codejam2019-my-codes"]
+	path = challenges/codejam2019-my-codes
+	url = https://bitbucket.org/neetsdkasu/codejam2019-my-codes.git
+	branch = master
+[submodule "challenges/icfpc2016-my-codes"]
+	path = challenges/icfpc2016-my-codes
+	url = https://bitbucket.org/neetsdkasu/icfpc2016-my-codes.git
+	branch = master
+[submodule "challenges/icfpc2017-my-codes"]
+	path = challenges/icfpc2017-my-codes
+	url = https://bitbucket.org/neetsdkasu/icfpc2017-my-codes.git
+	branch = master
+[submodule "challenges/icfpc2018-my-codes"]
+	path = challenges/icfpc2018-my-codes
+	url = https://bitbucket.org/neetsdkasu/icfpc2018-my-codes.git
+	branch = master
+[submodule "challenges/icfpc2019-my-codes"]
+	path = challenges/icfpc2019-my-codes
+	url = https://bitbucket.org/neetsdkasu/icfpc2019-my-codes.git
+	branch = master
+[submodule "challenges/codejam2018-my-codes"]
+	path = challenges/codejam2018-my-codes
+	url = https://bitbucket.org/neetsdkasu/codejam2018-my-codes.git
+	branch = master
+[submodule "challenges/codejam2017-my-codes"]
+	path = challenges/codejam2017-my-codes
+	url = https://bitbucket.org/neetsdkasu/codejam2017-my-codes.git
+	branch = master
+[submodule "lang-JavaScript/codemirror-mode-casl2"]
+	path = lang-JavaScript/codemirror-mode-casl2
+	url = https://gist.github.com/483e98e15b58fb5cdb9d7de272fcb118.git
+	branch = master
+[submodule "lang-JavaScript/pe-location-page-lastlogin-emphasize"]
+	path = lang-JavaScript/pe-location-page-lastlogin-emphasize
+	url = https://gist.github.com/4bb338ad276d68f165b07bef9be69ff7.git
+	branch = master
+[submodule "lang-Haskell/snippet-primes"]
+	path = lang-Haskell/snippet-primes
+	url = https://gist.github.com/33b45170888046d99e78ede27a2e62e0.git
+	branch = master
+[submodule "lang-Haskell/snippet-modulo"]
+	path = lang-Haskell/snippet-modulo
+	url = https://gist.github.com/db510701af3b24cc3afa554522efba55.git
+	branch = master
+[submodule "lang-Rust/snippet-modulo"]
+	path = lang-Rust/snippet-modulo
+	url = https://gist.github.com/05eebc854cd25dbd4c388e2b7e932ec0.git
+	branch = master
+[submodule "lang-Go/byteviewer"]
+	path = lang-Go/byteviewer
+	url = https://gist.github.com/044abe2d0db425a9170ee3e89c42a052.git
+	branch = master
+[submodule "lang-Go/tweet"]
+	path = lang-Go/tweet
+	url = https://gist.github.com/e422233d4b62242d2c6062ec4c11dd51.git
+	branch = master
+[submodule "lang-Go/hatena-oauth"]
+	path = lang-Go/hatena-oauth
+	url = https://gist.github.com/4a26ced27af45a71a9c9b7c41bc22b0e.git
+	branch = master
+[submodule "lang-FSharp/twtimeline"]
+	path = lang-FSharp/twtimeline
+	url = https://gist.github.com/25d6c45e1f3ce028c859b734bad3d85f.git
+	branch = master
+[submodule "lang-FSharp/JsonAnalyzer"]
+	path = lang-FSharp/JsonAnalyzer
+	url = https://gist.github.com/16883d4f55ba6233492c176ab2d65b48.git
+	branch = master
+[submodule "lang-Java/snippet-xorshift"]
+	path = lang-Java/snippet-xorshift
+	url = https://gist.github.com/f0a5692baf1f12ce3004e7931feb0f28.git
+	branch = master
+[submodule "lang-VisualBasicNET/snippet-heap"]
+	path = lang-VisualBasicNET/snippet-heap
+	url = https://gist.github.com/62af5f81adb04d4f9183f3aa36ca9bba.git
+	branch = master
+[submodule "lang-FSharp/tweet"]
+	path = lang-FSharp/tweet
+	url = https://gist.github.com/4b2418c89fea4c62c90029952f79e0cd.git
+	branch = master
+[submodule "lang-FSharp/twoauth"]
+	path = lang-FSharp/twoauth
+	url = https://gist.github.com/19f9703f8167213708f751c1c2347599.git
+	branch = master
+[submodule "lang-Ruby/gen_unlambda"]
+	path = lang-Ruby/gen_unlambda
+	url = https://gist.github.com/c14b7a4f119abf4eafc5.git
+	branch = master
+[submodule "lang-Ruby/gen_intercal"]
+	path = lang-Ruby/gen_intercal
+	url = https://gist.github.com/9ca2563a2ff449f31b12.git
+	branch = master
+[submodule "lang-Ruby/genBF"]
+	path = lang-Ruby/genBF
+	url = https://gist.github.com/737c057d738936330a97.git
+	branch = master
